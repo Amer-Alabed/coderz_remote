@@ -1,0 +1,10 @@
+# list of ignoree file
+
+# for onclude a spec file
+/config/.env
+# ingore all .txt files
+*.txt
+
+config/*
+
+!config/.env.example
